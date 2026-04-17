@@ -34,5 +34,18 @@ This project was created as part of the application process. The goal was to ins
 - Basic GitHub workflow
 - Using AI productivity tools
 
+## Research Project Update
+
+Chosen Topic: Reddit Marketing for B2B SaaS
+
+Current Progress:
+- Created research folder structure
+- Began expert sourcing process
+- Added first expert: Ross Simmonds
+- Documented relevance and strategy notes
+
+Why This Topic:
+Reddit offers authentic communities where B2B SaaS companies can learn customer pain points, build trust, and grow organically.
+
 ## Author
 Arne Andersen
