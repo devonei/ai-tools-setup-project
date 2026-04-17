@@ -68,10 +68,39 @@ Her work explains why Reddit increasingly matters in B2B SaaS buyer journeys, br
   Notes:Explains that audience insights live inside public conversations, including Reddit posts. Strong framework for using Reddit as customer research rather than only promotion.
 
 - YouTube — A Playbook for Shaping What the Internet Says About You
-  https://youtu.be/_VkIbMgHrqI?si=6qCINBJwgiCwd4KE  Date:14/4/2026
+  https://youtu.be/_VkIbMgHrqI?si=6qCINBJwgiCwd4KE  
+  Date:14/4/2026
   Notes:Explains how Reddit, reviews, AI answers, and third-party discussions shape brand perception before users ever visit a website. Strong framework for reputation-led Reddit strategy.
 
 - SparkToro Article — If Search Captures Demand, Public Evidence Creates It
   https://sparktoro.com/blog/if-search-captures-demand-public-evidence-creates-it/
   Date: 4/1/2026
   Notes:Explains how Reddit, forums, and public third-party discussions create demand before search captures it. Strong framework for understanding Reddit’s hidden role in B2B SaaS acquisition.
+
+## Neil Patel
+
+Role: Founder of NP Digital and widely recognized digital marketer focused on SEO, paid media, and growth acquisition systems.
+
+Why Relevant:
+Publishes direct Reddit marketing frameworks covering organic growth, paid ads, Google visibility, and how Reddit influences buying decisions.
+
+### Sources:
+- YouTube — Why Google LOVES Reddit (And How Marketers Can Exploit It)
+  https://youtu.be/BVPmxDG-Vv8
+  Date:2/19/2026
+  Notes:Explains why Reddit has become a major purchase-influence engine. Covers Reddit buyer psychology, organic growth strategy, paid ads, Google visibility, AI answer engines, and attribution challenges.
+
+- YouTube — How to Generate More Traffic From Reddit
+  https://youtu.be/U0F1JrmoxTw?si=AzkbDYpYIcm6C4cl
+  Date:10/28/2017
+  Notes:Practical Reddit traffic framework focused on community participation, joining relevant subreddits, transparency, replicating winning content, strategic submission timing, and avoiding aggressive landing-page tactics.
+
+- Blog — The Marketer’s Guide to Reddit
+  https://neilpatel.com/blog/reddit-marketing-guide/
+  Date:12/15/2025
+  Notes:Comprehensive Reddit marketing guide covering subreddit culture, Crawl-Walk-Run growth model, paid advertising strategy, SEO value, AI visibility, and long-term reputation building.
+
+- LinkedIn Post — This is a missed opportunity in social media marketing
+  https://www.linkedin.com/posts/neilkpatel_this-is-a-missed-opportunity-in-social-media-activity-7289414424157679616-RPu-
+  Date:2025
+  Notes:Argues that Reddit is an overlooked paid media channel with lower competition, niche targeting, and strong potential ROI compared with crowded major ad platforms.

@@ -76,6 +76,9 @@ Selected for his deep expertise in content distribution systems and practical Re
 ### Amanda Natividad  
 Selected for her expertise in zero-click marketing, modern search behavior, and community-led discovery systems. Her work consistently connects Reddit, audience research, hidden demand creation, and modern B2B buyer behavior.
 
+### Neil Patel  
+Selected for his direct Reddit marketing frameworks covering buyer psychology, organic traffic generation, paid Reddit ads, and Reddit’s growing influence on Google search and AI-driven discovery.
+
 ---
 
 ## What Was Collected
