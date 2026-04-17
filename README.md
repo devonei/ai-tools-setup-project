@@ -73,6 +73,9 @@ Criteria used:
 ### Ross Simmonds
 Selected for his deep expertise in content distribution systems and practical Reddit marketing frameworks. His work consistently connects SEO, Reddit visibility, and modern B2B buyer behavior.
 
+### Amanda Natividad  
+Selected for her expertise in zero-click marketing, modern search behavior, and community-led discovery systems. Her work consistently connects Reddit, audience research, hidden demand creation, and modern B2B buyer behavior.
+
 ---
 
 ## What Was Collected
