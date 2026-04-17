@@ -12,30 +12,39 @@ I selected experts based on:
 
 ---
 
-## Expert 1: Ross Simmonds
+# Research Sources
 
-**Primary Platforms:** LinkedIn, YouTube, Website, Podcast
+## Ross Simmonds
+Role: Content distribution strategist / SaaS growth educator
 
-**Profile Links:**
-- https://www.linkedin.com/in/rosssimmonds/
-- https://www.youtube.com/
-- https://foundationinc.co/
+### Sources:
+- LinkedIn Post (Reddit SERP dominance)
+  https://www.linkedin.com/posts/rosssimmonds_marketing-redditmarketing-reddit-activity-7440498588050325505-OKSJ
+  Date: 2026
+  Notes: Shows Reddit as a search engine surface for SaaS discovery
 
-**Why Chosen:**
-Ross Simmonds is highly respected for content distribution and audience growth strategy. His work is valuable for Reddit marketing because Reddit rewards useful content, trust, and strategic distribution rather than aggressive promotion.
+- LinkedIn Post (Distribution > Content)
+  https://www.linkedin.com/posts/rosssimmonds_every-marketer-has-had-this-moment-you-activity-7445892892096745472-alZk
+  Date: 2026
+  Notes: Core philosophy that distribution matters more than content creation
 
-**Relevant Expertise for Reddit Marketing:**
-- Content distribution strategy
-- Audience engagement
-- Organic visibility
-- Building trust before selling
-- Repurposing discussions into content assets
+- Reddit Marketing Blueprint
+  https://rosssimmonds.com/resources/reddit-blueprint/
+  Date: N/A (evergreen)
+  Notes: Structured Reddit strategy framework: listen → map → engage → seed → convert
 
-**Recent Topics Researched:**
-- How to distribute content effectively
-- Community-first marketing
-- Modern organic growth channels
-- Search behavior changes driven by forums and communities
+- Podcast Discussion (Reddit marketing strategy)
+  https://www.buzzstream.com/blog/reddit-marketing-podcast/
+  Date: 2/25/2026
+  Notes: Emphasizes authenticity and participation before promotion
 
-**Notes:**
-Ross is not exclusively a Reddit marketer, but his frameworks strongly apply to successful Reddit growth strategies for SaaS brands.
+- LinkedIn Learning Course
+  https://www.linkedin.com/learning/nano-tips-and-social-media-strategies-for-b2b-brands-with-ross-simmonds/
+  Date: 3/29/2024
+  Notes: Practical Reddit usage in B2B distribution
+
+- - YouTube Talk — Reddit Is the New Front Page of B2B: Listen, Learn, Then Leap
+  https://youtu.be/hN9eE95K_DY?si=RFaqJaQO_XdhcU4r
+  Date: 4/16/2026
+  Notes: Explains how B2B buyers increasingly rely on Reddit, private communities, and AI tools instead of traditional marketing assets.
+  Introduces the "Listen → Learn → Leap" framework for Reddit marketing and positions Reddit as a trust and discovery layer in modern SaaS buying journeys.
