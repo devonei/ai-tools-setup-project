@@ -104,3 +104,28 @@ Publishes direct Reddit marketing frameworks covering organic growth, paid ads, 
   https://www.linkedin.com/posts/neilkpatel_this-is-a-missed-opportunity-in-social-media-activity-7289414424157679616-RPu-
   Date:2025
   Notes:Argues that Reddit is an overlooked paid media channel with lower competition, niche targeting, and strong potential ROI compared with crowded major ad platforms.
+
+## Pieter Levels
+Role: Bootstrapped founder of Nomad List, Remote OK, and multiple profitable internet products built through community-led growth.
+
+## Pieter Levels
+
+Role: Bootstrapped founder of Nomad List, Remote OK, and multiple profitable internet products built through community-led growth.
+
+Why Relevant:
+Selected for his real-world expertise in launching startups through online communities like Reddit, Hacker News, and Product Hunt. Strong example of founder-led distribution, authentic audience building, and zero-budget traction systems.
+
+### Sources:
+- Blog — Building Hoodmaps in Public: From First Line of Code to Frontpage of Reddit
+  https://levels.io/hoodmaps/
+  Date:7/26/2017
+  Notes:Detailed case study of building Hoodmaps publicly and launching it to Reddit’s front page, generating massive traffic and user participation. Strong proof of Reddit as a traction engine for product discovery and viral growth.
+
+- Interview — Bootstrapping, Moving to Portugal and Startup Distribution (Wannabe Entrepreneur Podcast)
+  https://levels.io/wannabe-entrepreneur/
+  Date:1/20/2022
+  Notes:Pieter explains that Reddit is anti-spam and requires value-first participation. Highlights how founders should use communities for feedback, traction, and authentic growth instead of direct promotion.
+
+### Research Note
+
+Pieter Levels is primarily active on X/Twitter and his own blog rather than LinkedIn. Sources collected for this project focus on higher-signal long-form materials, interviews, and public launch case studies that better demonstrate his community-led growth expertise.

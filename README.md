@@ -79,6 +79,9 @@ Selected for her expertise in zero-click marketing, modern search behavior, and 
 ### Neil Patel  
 Selected for his direct Reddit marketing frameworks covering buyer psychology, organic traffic generation, paid Reddit ads, and Reddit’s growing influence on Google search and AI-driven discovery.
 
+### Pieter Levels
+Selected for his proven ability to launch and scale products through online communities like Reddit, Hacker News, and Product Hunt. His work demonstrates founder-led distribution, authentic audience building, rapid validation, and zero-budget traction systems highly relevant to Reddit marketing for startups and SaaS brands.
+
 ---
 
 ## What Was Collected
@@ -89,6 +92,7 @@ For each expert, multiple content types were gathered and structured:
 - YouTube videos → spoken frameworks and strategic breakdowns
 - Podcast interviews → applied Reddit marketing strategies
 - Framework pages → structured systems (e.g., Reddit Blueprint)
+- Some experts publish strongest material outside LinkedIn/YouTube. In those cases, higher-signal sources were prioritized.
 
 ---
 
