@@ -182,3 +182,45 @@ My buddy Ross Simmonds analyzed 8,566 B2B SaaS keywords (LinkedIn Post)
   - Buyers often encounter Reddit content before SaaS websites
   - Reddit influences purchase decisions through search visibility
   - Community content shapes early-stage brand perception
+
+## Tim Soulo
+
+Role: CMO of Ahrefs. Focuses on SEO systems, search visibility, and how modern discovery happens across search engines and user-generated platforms like Reddit.
+
+Why Relevant: Tim Soulo (through Ahrefs) provides data-driven insight into how Reddit dominates Google search results and functions as a key discovery layer in modern SEO and B2B SaaS marketing. His work shows Reddit’s role in SERPs, brand visibility, and organic user-generated content competition.
+
+
+### Sources:
+Ahrefs Brand Radar Adds Reddit Tracking (Product Announcement)
+  https://ahrefs.com/blog/product-announcement-ahrefs-adds-youtube-and-reddit-tracking-to-brand-radar/
+  Date:12/19/2025
+  Notes:
+  - Reddit is included as a tracked visibility surface alongside YouTube and TikTok
+  - Ahrefs treats Reddit as part of modern brand discovery ecosystems
+  - Reddit mentions are analyzed in relation to Google SERP visibility
+  - Brand Radar expands SEO tracking beyond websites into platform-based discovery
+  - Reddit content is framed as influencing early-stage brand awareness
+
+---
+
+Reddit.com SEO & Traffic Profile (Ahrefs Data Overview)
+  https://ahrefstop.com/websites/reddit.com
+  Date:2026
+  Notes:
+  - Reddit is one of the most visited websites globally
+  - Significant traffic originates from Google search (organic discovery)
+  - Reddit ranks for a large volume of keywords across multiple industries
+  - Strong backlink profile and high domain authority (Ahrefs DR ~95+)
+  - Reddit competes directly with SaaS and publisher websites in SERPs
+
+---
+
+Reddit is one of the most visible domains in Google SERPs (LinkedIn Post)
+  https://www.linkedin.com/posts/timsoulo_google-serps-reddit-is-the-1-most-popular-activity-7377307204258992128-LhEX/
+  Date:2025
+  Notes:
+  - Reddit frequently appears across large-scale Google keyword datasets
+  - It often outranks traditional publisher and SaaS brand websites in SERPs
+  - Google surfaces Reddit heavily for informational and product-related searches
+  - Reddit acts as a “default answer layer” in search behavior
+  - User-generated content significantly influences discovery before website visits
