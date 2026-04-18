@@ -90,6 +90,10 @@ Selected for his expertise in audience research, search behavior shifts, and how
 
 Selected for his data-driven perspective on how Reddit influences modern search behavior, SERP visibility, and SaaS discovery systems. His inclusion is based on Ahrefs ecosystem insights that consistently position Reddit as a high-frequency domain in Google search results, a major competitor to SaaS and publisher websites in SERPs, and a tracked visibility surface within modern SEO tooling such as Brand Radar. Rather than focusing on Reddit as a community engagement platform, Tim Soulo is selected for highlighting Reddit’s role as a search-powered discovery channel that shapes early-stage buyer research and SaaS visibility in B2B marketing ecosystems.
 
+### Kevin Indig
+
+Selected for deep research on how AI search (Google AI Overviews, ChatGPT, and LLM-based discovery systems) is reshaping SEO, organic traffic dynamics, and modern growth strategy.
+
 ---
 
 ## What Was Collected

@@ -224,3 +224,27 @@ Reddit is one of the most visible domains in Google SERPs (LinkedIn Post)
   - Google surfaces Reddit heavily for informational and product-related searches
   - Reddit acts as a “default answer layer” in search behavior
   - User-generated content significantly influences discovery before website visits
+
+### Kevin Indig
+
+Role:
+SEO strategist, growth advisor, former head of SEO at major tech companies (Shopify, G2, Atlassian), now independent consultant and writer of Growth Memo.
+
+Why Relevant:
+Kevin is one of the most influential voices in modern SEO, especially in the transition from classic search (10 blue links) to AI-driven search systems like Google AI Overviews and ChatGPT. His insights directly explain how traffic loss, AI citations, and brand authority shifts are reshaping organic growth. He also bridges practical SEO with emerging AI search behavior.
+
+### Sources:
+-Google Will Kill Your Traffic - Here's How You Adapt | Kevin Indig (Growth Memo)
+https://youtu.be/jQXvbeYF5go?si=l2RfMn-2n9yj1YvM
+  Date: 8/26/2025
+  Notes:Discusses how AI Overviews are reducing clicks while impressions rise, how Google defines impressions in AI Overviews, and why 2024 may represent peak organic traffic. Covers shifting SEO fundamentals, revenue vs traffic decoupling, and how AI search changes user behavior (longer prompts, intent-driven queries, validation via Reddit/YouTube).
+
+-Reddit’s Growth Advisor on Finding Your Vertical-Specific SEO Strategy
+  https://marketingagainstthegrain.com/articles/reddits-growth-advisor-on-finding-your-vertical-specific-seo-strategy
+  Date: 1/15/2026
+  Notes:Explains how Reddit approaches SEO through vertical-specific strategies and community-driven content. Highlights the importance of intent alignment, niche targeting, and leveraging real user discussions to improve discoverability in search and AI systems.
+
+-Reddit SEO Strategies in the Age of AI Search
+  https://www.airops.com/blog/reddit-google-seo-strategies
+  Date: 1/2/2025
+  Notes:Breaks down how Reddit content increasingly ranks in Google and is heavily used in AI-generated answers. Shows how AI systems prefer human discussion data for grounding responses, reinforcing Kevin Indig’s point about multi-platform visibility (Reddit, forums, reviews) becoming critical for SEO success.
