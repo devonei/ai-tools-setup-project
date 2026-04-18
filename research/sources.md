@@ -163,7 +163,7 @@ Selected for his expertise in how people discover brands through communities, wo
    Users often consume and act on information without leaving the platform.
    Reddit influence happens inside threads, not via traffic generation.
 
-####Reddit Participation & Trust Building (YouTube Interview Transcript)
+#### Reddit Participation & Trust Building (YouTube Interview Transcript)
 - https://youtu.be/pfCJreTtNTg?si=rYNZWS1oSYYFAG5f
 - Date:8/1/2025
 - Notes:
