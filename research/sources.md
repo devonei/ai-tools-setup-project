@@ -61,22 +61,22 @@ Her work explains why Reddit increasingly matters in B2B SaaS buyer journeys, br
 #### LinkedIn Post — Search Isn’t Dead. It Happens Across Reddit Too
 - https://www.linkedin.com/posts/amandanat_search-isnt-dead-its-so-alive-that-it-activity-7445492752856883200-tUyN/
 - Date:2026
-- Notes:Frames search as a behavior happening across Google, YouTube, Reddit, and AI tools. Highlights Reddit appearing earlier in buyer discovery journeys than many brands realize.
+- Notes: Frames search as a behavior happening across Google, YouTube, Reddit, and AI tools. Highlights Reddit appearing earlier in buyer discovery journeys than many brands realize.
 
 #### LinkedIn Post — The Clues Are in the Comments
 - https://www.linkedin.com/posts/amandanat_the-clues-are-in-the-comments-your-audience-activity-7381704972633063424-KejA/
 - Date:2025
-- Notes:Explains that audience insights live inside public conversations, including Reddit posts. Strong framework for using Reddit as customer research rather than only promotion.
+- Notes: Explains that audience insights live inside public conversations, including Reddit posts. Strong framework for using Reddit as customer research rather than only promotion.
 
 #### YouTube — A Playbook for Shaping What the Internet Says About You
 - https://youtu.be/_VkIbMgHrqI?si=6qCINBJwgiCwd4KE  
 - Date:14/4/2026
-- Notes:Explains how Reddit, reviews, AI answers, and third-party discussions shape brand perception before users ever visit a website. Strong framework for reputation-led Reddit strategy.
+- Notes: Explains how Reddit, reviews, AI answers, and third-party discussions shape brand perception before users ever visit a website. Strong framework for reputation-led Reddit strategy.
 
 #### SparkToro Article — If Search Captures Demand, Public Evidence Creates It
 - https://sparktoro.com/blog/if-search-captures-demand-public-evidence-creates-it/
 - Date: 4/1/2026
-- Notes:Explains how Reddit, forums, and public third-party discussions create demand before search captures it. Strong framework for understanding Reddit’s hidden role in B2B SaaS acquisition.
+- Notes: Explains how Reddit, forums, and public third-party discussions create demand before search captures it. Strong framework for understanding Reddit’s hidden role in B2B SaaS acquisition.
 
 ---
 
@@ -144,7 +144,7 @@ Selected for his expertise in how people discover brands through communities, wo
 
 ### Sources:
 #### Which Subreddits Does Your Audience Follow? What Do They Talk About?
--https://sparktoro.com/blog/which-subreddits-does-your-audience-follow-what-do-they-talk-about-starting-today-sparktoro-has-the-answers/
+- https://sparktoro.com/blog/which-subreddits-does-your-audience-follow-what-do-they-talk-about-starting-today-sparktoro-has-the-answers/
 - Date:9/20/2022
 - Notes:
    Reddit is positioned as an audience intelligence system, not just a content platform.
