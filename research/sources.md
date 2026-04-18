@@ -12,7 +12,7 @@ I selected experts based on:
 
 ---
 
-# Research Sources
+# Experts Sources
 
 ## Ross Simmonds
 Role: Content distribution strategist / SaaS growth educator
@@ -147,42 +147,42 @@ Selected for his expertise in how people discover brands through communities, wo
 -https://sparktoro.com/blog/which-subreddits-does-your-audience-follow-what-do-they-talk-about-starting-today-sparktoro-has-the-answers/
 - Date:9/20/2022
 - Notes:
-   Reddit is positioned as an audience intelligence system, not just a content platform
-   Helps identify which subreddits audiences actually follow
-   Reveals behavioral clusters and interest-based communities
-   Useful for pre-marketing research and targeting strategy
-   Subreddits represent real user intent signals
+   Reddit is positioned as an audience intelligence system, not just a content platform.
+   Helps identify which subreddits audiences actually follow.
+   Reveals behavioral clusters and interest-based communities.
+   Useful for pre-marketing research and targeting strategy.
+   Subreddits represent real user intent signals.
 
 #### 5-Minute Whiteboard: Zero-Click Marketing 101
 - https://sparktoro.com/blog/5-minute-whiteboard-zero-click-marketing-101/
 - Date:7/28/2023
 - Notes:
-   Platforms increasingly reduce outbound clicks to external websites
-   Reddit is part of the zero-click ecosystem (alongside Google, YouTube, etc.)
-   Marketing success is shifting from clicks → visibility and trust
-   Users often consume and act on information without leaving the platform
-   Reddit influence happens inside threads, not via traffic generation
+   Platforms increasingly reduce outbound clicks to external websites.
+   Reddit is part of the zero-click ecosystem (alongside Google, YouTube, etc.).
+   Marketing success is shifting from clicks → visibility and trust.
+   Users often consume and act on information without leaving the platform.
+   Reddit influence happens inside threads, not via traffic generation.
 
 ####Reddit Participation & Trust Building (YouTube Interview Transcript)
 - https://youtu.be/pfCJreTtNTg?si=rYNZWS1oSYYFAG5f
 - Date:8/1/2025
 - Notes:
-   Reddit punishes direct promotional content
-   Consistent helpful participation builds trust over time
-   Identity transparency increases credibility (not anonymity)
-   Users follow and investigate credible contributors
-   Marketing impact comes from reputation, not direct CTAs
+   Reddit punishes direct promotional content.
+   Consistent helpful participation builds trust over time.
+   Identity transparency increases credibility (not anonymity).
+   Users follow and investigate credible contributors.
+   Marketing impact comes from reputation, not direct CTAs.
    Same behavioral pattern applies across Reddit, LinkedIn, YouTube, etc.
 
-####My buddy Ross Simmonds analyzed 8,566 B2B SaaS keywords (LinkedIn Post)
+#### My buddy Ross Simmonds analyzed 8,566 B2B SaaS keywords (LinkedIn Post)
 - https://www.linkedin.com/posts/randfishkin_my-buddy-ross-simmonds-analyzed-8566-b2b-activity-7442874675707191296-nQYA/
 - Date:2026
 - Notes:
-   Reddit frequently appears in Google search results for B2B SaaS keywords
-   Reddit can outrank vendor websites in SERPs
-   Buyers often encounter Reddit content before SaaS websites
-   Reddit influences purchase decisions through search visibility
-   Community content shapes early-stage brand perception
+   Reddit frequently appears in Google search results for B2B SaaS keywords.
+   Reddit can outrank vendor websites in SERPs.
+   Buyers often encounter Reddit content before SaaS websites.
+   Reddit influences purchase decisions through search visibility.
+   Community content shapes early-stage brand perception.
 
 ---
 
@@ -194,39 +194,37 @@ Why Relevant: Tim Soulo (through Ahrefs) provides data-driven insight into how R
 
 
 ### Sources:
-Ahrefs Brand Radar Adds Reddit Tracking (Product Announcement)
-  https://ahrefs.com/blog/product-announcement-ahrefs-adds-youtube-and-reddit-tracking-to-brand-radar/
-  Date:12/19/2025
-  Notes:
-  - Reddit is included as a tracked visibility surface alongside YouTube and TikTok
-  - Ahrefs treats Reddit as part of modern brand discovery ecosystems
-  - Reddit mentions are analyzed in relation to Google SERP visibility
-  - Brand Radar expands SEO tracking beyond websites into platform-based discovery
-  - Reddit content is framed as influencing early-stage brand awareness
+#### Ahrefs Brand Radar Adds Reddit Tracking (Product Announcement)
+- https://ahrefs.com/blog/product-announcement-ahrefs-adds-youtube-and-reddit-tracking-to-brand-radar/
+- Date:12/19/2025
+- Notes:
+   Reddit is included as a tracked visibility surface alongside YouTube and TikTok.
+   Ahrefs treats Reddit as part of modern brand discovery ecosystems.
+   Reddit mentions are analyzed in relation to Google SERP visibility.
+   Brand Radar expands SEO tracking beyond websites into platform-based discovery.
+   Reddit content is framed as influencing early-stage brand awareness.
+
+#### Reddit.com SEO & Traffic Profile (Ahrefs Data Overview)
+- https://ahrefstop.com/websites/reddit.com
+- Date:2026
+- Notes:
+   Reddit is one of the most visited websites globally.
+   Significant traffic originates from Google search (organic discovery).
+   Reddit ranks for a large volume of keywords across multiple industries.
+   Strong backlink profile and high domain authority (Ahrefs DR ~95+).
+   Reddit competes directly with SaaS and publisher websites in SERPs.
+
+#### Reddit is one of the most visible domains in Google SERPs (LinkedIn Post)
+- https://www.linkedin.com/posts/timsoulo_google-serps-reddit-is-the-1-most-popular-activity-7377307204258992128-LhEX/
+- Date:2025
+- Notes:
+   Reddit frequently appears across large-scale Google keyword datasets.
+   It often outranks traditional publisher and SaaS brand websites in SERPs.
+   Google surfaces Reddit heavily for informational and product-related searches.
+   Reddit acts as a “default answer layer” in search behavior.
+   User-generated content significantly influences discovery before website visits.
 
 ---
-
-Reddit.com SEO & Traffic Profile (Ahrefs Data Overview)
-  https://ahrefstop.com/websites/reddit.com
-  Date:2026
-  Notes:
-  - Reddit is one of the most visited websites globally
-  - Significant traffic originates from Google search (organic discovery)
-  - Reddit ranks for a large volume of keywords across multiple industries
-  - Strong backlink profile and high domain authority (Ahrefs DR ~95+)
-  - Reddit competes directly with SaaS and publisher websites in SERPs
-
----
-
-Reddit is one of the most visible domains in Google SERPs (LinkedIn Post)
-  https://www.linkedin.com/posts/timsoulo_google-serps-reddit-is-the-1-most-popular-activity-7377307204258992128-LhEX/
-  Date:2025
-  Notes:
-  - Reddit frequently appears across large-scale Google keyword datasets
-  - It often outranks traditional publisher and SaaS brand websites in SERPs
-  - Google surfaces Reddit heavily for informational and product-related searches
-  - Reddit acts as a “default answer layer” in search behavior
-  - User-generated content significantly influences discovery before website visits
 
 ### Kevin Indig
 
@@ -237,17 +235,17 @@ Why Relevant:
 Kevin is one of the most influential voices in modern SEO, especially in the transition from classic search (10 blue links) to AI-driven search systems like Google AI Overviews and ChatGPT. His insights directly explain how traffic loss, AI citations, and brand authority shifts are reshaping organic growth. He also bridges practical SEO with emerging AI search behavior.
 
 ### Sources:
--Google Will Kill Your Traffic - Here's How You Adapt | Kevin Indig (Growth Memo)
-https://youtu.be/jQXvbeYF5go?si=l2RfMn-2n9yj1YvM
-  Date: 8/26/2025
-  Notes:Discusses how AI Overviews are reducing clicks while impressions rise, how Google defines impressions in AI Overviews, and why 2024 may represent peak organic traffic. Covers shifting SEO fundamentals, revenue vs traffic decoupling, and how AI search changes user behavior (longer prompts, intent-driven queries, validation via Reddit/YouTube).
+#### Google Will Kill Your Traffic - Here's How You Adapt | Kevin Indig (Growth Memo)
+- https://youtu.be/jQXvbeYF5go?si=l2RfMn-2n9yj1YvM
+- Date: 8/26/2025
+- Notes:Discusses how AI Overviews are reducing clicks while impressions rise, how Google defines impressions in AI Overviews, and why 2024 may represent peak organic traffic. Covers shifting SEO fundamentals, revenue vs traffic decoupling, and how AI search changes user behavior (longer prompts, intent-driven queries, validation via Reddit/YouTube).
 
--Reddit’s Growth Advisor on Finding Your Vertical-Specific SEO Strategy
-  https://marketingagainstthegrain.com/articles/reddits-growth-advisor-on-finding-your-vertical-specific-seo-strategy
-  Date: 1/15/2026
-  Notes:Explains how Reddit approaches SEO through vertical-specific strategies and community-driven content. Highlights the importance of intent alignment, niche targeting, and leveraging real user discussions to improve discoverability in search and AI systems.
+#### Reddit’s Growth Advisor on Finding Your Vertical-Specific SEO Strategy
+- https://marketingagainstthegrain.com/articles/reddits-growth-advisor-on-finding-your-vertical-specific-seo-strategy
+- Date: 1/15/2026
+- Notes:Explains how Reddit approaches SEO through vertical-specific strategies and community-driven content. Highlights the importance of intent alignment, niche targeting, and leveraging real user discussions to improve discoverability in search and AI systems.
 
--Reddit SEO Strategies in the Age of AI Search
-  https://www.airops.com/blog/reddit-google-seo-strategies
-  Date: 1/2/2025
-  Notes:Breaks down how Reddit content increasingly ranks in Google and is heavily used in AI-generated answers. Shows how AI systems prefer human discussion data for grounding responses, reinforcing Kevin Indig’s point about multi-platform visibility (Reddit, forums, reviews) becoming critical for SEO success.
+#### Reddit SEO Strategies in the Age of AI Search
+- https://www.airops.com/blog/reddit-google-seo-strategies
+- Date: 1/2/2025
+- Notes:Breaks down how Reddit content increasingly ranks in Google and is heavily used in AI-generated answers. Shows how AI systems prefer human discussion data for grounding responses, reinforcing Kevin Indig’s point about multi-platform visibility (Reddit, forums, reviews) becoming critical for SEO success.
