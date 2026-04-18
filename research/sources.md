@@ -18,17 +18,17 @@ I selected experts based on:
 Role: Content distribution strategist / SaaS growth educator
 
 ### Sources:
-- LinkedIn Post (Reddit SERP dominance)
+#### LinkedIn Post (Reddit SERP dominance)
 - https://www.linkedin.com/posts/rosssimmonds_marketing-redditmarketing-reddit-activity-7440498588050325505-OKSJ
 - Date: 2026
 - Notes: Shows Reddit as a search engine surface for SaaS discovery
 
-- LinkedIn Post (Distribution > Content)
+#### LinkedIn Post (Distribution > Content)
 - https://www.linkedin.com/posts/rosssimmonds_every-marketer-has-had-this-moment-you-activity-7445892892096745472-alZk
 - Date: 2026
 - Notes: Core philosophy that distribution matters more than content creation
 
-- Reddit Marketing Blueprint
+#### Reddit Marketing Blueprint
 - https://rosssimmonds.com/resources/reddit-blueprint/
 - Date: N/A (evergreen)
 - Notes: Structured Reddit strategy framework: listen → map → engage → seed → convert
