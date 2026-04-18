@@ -106,9 +106,6 @@ Publishes direct Reddit marketing frameworks covering organic growth, paid ads, 
   Notes:Argues that Reddit is an overlooked paid media channel with lower competition, niche targeting, and strong potential ROI compared with crowded major ad platforms.
 
 ## Pieter Levels
-Role: Bootstrapped founder of Nomad List, Remote OK, and multiple profitable internet products built through community-led growth.
-
-## Pieter Levels
 
 Role: Bootstrapped founder of Nomad List, Remote OK, and multiple profitable internet products built through community-led growth.
 
@@ -129,3 +126,59 @@ Selected for his real-world expertise in launching startups through online commu
 ### Research Note
 
 Pieter Levels is primarily active on X/Twitter and his own blog rather than LinkedIn. Sources collected for this project focus on higher-signal long-form materials, interviews, and public launch case studies that better demonstrate his community-led growth expertise.
+
+## Rand Fishkin
+
+Role:
+Co-founder of SparkToro, founder of Moz, marketer focused on audience research, search behavior, and modern discovery channels.
+
+Why Relevant:
+Selected for his expertise in how people discover brands through communities, word of mouth, search behavior shifts, and trusted third-party platforms. His work strongly supports Reddit’s role in B2B SaaS discovery and buyer research.
+
+### Sources:
+Which Subreddits Does Your Audience Follow? What Do They Talk About?
+  https://sparktoro.com/blog/which-subreddits-does-your-audience-follow-what-do-they-talk-about-starting-today-sparktoro-has-the-answers/
+  Date:9/20/2022
+  Notes:
+  - Reddit is positioned as an audience intelligence system, not just a content platform
+  - Helps identify which subreddits audiences actually follow
+  - Reveals behavioral clusters and interest-based communities
+  - Useful for pre-marketing research and targeting strategy
+  - Subreddits represent real user intent signals
+
+---
+
+5-Minute Whiteboard: Zero-Click Marketing 101
+  https://sparktoro.com/blog/5-minute-whiteboard-zero-click-marketing-101/
+  Date:7/28/2023
+  Notes:
+  - Platforms increasingly reduce outbound clicks to external websites
+  - Reddit is part of the zero-click ecosystem (alongside Google, YouTube, etc.)
+  - Marketing success is shifting from clicks → visibility and trust
+  - Users often consume and act on information without leaving the platform
+  - Reddit influence happens inside threads, not via traffic generation
+
+---
+
+Reddit Participation & Trust Building (YouTube Interview Transcript)
+  https://youtu.be/pfCJreTtNTg?si=rYNZWS1oSYYFAG5f
+  Date:8/1/2025
+  Notes:
+  - Reddit punishes direct promotional content
+  - Consistent helpful participation builds trust over time
+  - Identity transparency increases credibility (not anonymity)
+  - Users follow and investigate credible contributors
+  - Marketing impact comes from reputation, not direct CTAs
+  - Same behavioral pattern applies across Reddit, LinkedIn, YouTube, etc.
+
+---
+
+My buddy Ross Simmonds analyzed 8,566 B2B SaaS keywords (LinkedIn Post)
+  https://www.linkedin.com/posts/randfishkin_my-buddy-ross-simmonds-analyzed-8566-b2b-activity-7442874675707191296-nQYA/
+  Date:2026
+  Notes:
+  - Reddit frequently appears in Google search results for B2B SaaS keywords
+  - Reddit can outrank vendor websites in SERPs
+  - Buyers often encounter Reddit content before SaaS websites
+  - Reddit influences purchase decisions through search visibility
+  - Community content shapes early-stage brand perception

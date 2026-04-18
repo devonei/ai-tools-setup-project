@@ -82,6 +82,10 @@ Selected for his direct Reddit marketing frameworks covering buyer psychology, o
 ### Pieter Levels
 Selected for his proven ability to launch and scale products through online communities like Reddit, Hacker News, and Product Hunt. His work demonstrates founder-led distribution, authentic audience building, rapid validation, and zero-budget traction systems highly relevant to Reddit marketing for startups and SaaS brands.
 
+### Rand Fishkin
+
+Selected for his expertise in audience research, search behavior shifts, and how buyers increasingly discover brands through trusted third-party communities. His work strongly supports Reddit’s growing role in B2B SaaS research and discovery.
+
 ---
 
 ## What Was Collected
