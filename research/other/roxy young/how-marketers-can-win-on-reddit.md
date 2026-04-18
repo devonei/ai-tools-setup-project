@@ -9,7 +9,7 @@ https://www.adweek.com/brand-marketing/how-marketers-can-win-on-reddit-from-the-
 
 Reddit is not just another social platform.
 
-Roxy Young explains that Reddit gives brands access to highly engaged communities built around interests, passions, and real conversations rather than follower counts or personal vanity metrics. :contentReference[oaicite:0]{index=0}
+Roxy Young explains that Reddit gives brands access to highly engaged communities built around interests, passions, and real conversations rather than follower counts or personal vanity metrics. 
 
 ---
 
@@ -28,7 +28,7 @@ People gather around topics such as:
 - electric vehicles  
 - entrepreneurship  
 
-This creates stronger intent signals for marketers. :contentReference[oaicite:1]{index=1}
+This creates stronger intent signals for marketers. 
 
 ---
 
@@ -45,7 +45,7 @@ That means Reddit can surface audiences interested in:
 - productivity systems  
 - customer support tools
 
-Instead of targeting vague demographics, marketers can target real interests. :contentReference[oaicite:2]{index=2}
+Instead of targeting vague demographics, marketers can target real interests. 
 
 ---
 
@@ -61,7 +61,7 @@ This means brands should:
 - listen to feedback  
 - become part of the culture  
 
-Done well, this creates deeper engagement and stronger brand affinity. :contentReference[oaicite:3]{index=3}
+Done well, this creates deeper engagement and stronger brand affinity. 
 
 ---
 
@@ -74,7 +74,7 @@ Roxy also explains Reddit uses multiple layers of moderation:
 - voting systems  
 - advertiser controls  
 
-This helps brands participate more confidently while choosing suitable environments. :contentReference[oaicite:4]{index=4}
+This helps brands participate more confidently while choosing suitable environments. 
 
 ---
 
@@ -87,7 +87,7 @@ Reddit is also using AI to improve advertiser tools such as:
 - faster insights  
 - smoother campaign setup  
 
-This lowers friction for brands entering the platform. :contentReference[oaicite:5]{index=5}
+This lowers friction for brands entering the platform. 
 
 ---
 

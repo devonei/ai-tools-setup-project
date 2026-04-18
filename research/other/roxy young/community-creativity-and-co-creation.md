@@ -11,7 +11,7 @@ The future of strong brands is not total message control.
 
 Roxy Young explains that modern growth comes from building with communities, not simply marketing at them.
 
-Reddit’s model is based on passionate groups gathering around shared interests, where trust, participation, and collaboration matter more than polished corporate messaging. :contentReference[oaicite:0]{index=0}
+Reddit’s model is based on passionate groups gathering around shared interests, where trust, participation, and collaboration matter more than polished corporate messaging. 
 
 ---
 
@@ -21,7 +21,7 @@ Communities create belonging.
 
 People increasingly use online spaces not only for information, but for identity, support, learning, and connection.
 
-That makes community-driven platforms more valuable than traditional broadcast media for brands seeking lasting relevance. :contentReference[oaicite:1]{index=1}
+That makes community-driven platforms more valuable than traditional broadcast media for brands seeking lasting relevance. 
 
 ---
 
@@ -38,7 +38,7 @@ They ask about:
 - software alternatives  
 - implementation advice  
 
-These discussions happen before many purchase decisions are made. :contentReference[oaicite:2]{index=2}
+These discussions happen before many purchase decisions are made. 
 
 ---
 
@@ -48,7 +48,7 @@ Roxy challenges the idea that brands do not belong in close-knit communities.
 
 She notes users often respect brands that make a genuine effort to participate thoughtfully.
 
-That means brands can succeed when they contribute value instead of forcing promotion. :contentReference[oaicite:3]{index=3}
+That means brands can succeed when they contribute value instead of forcing promotion. 
 
 ---
 
@@ -65,7 +65,7 @@ This can include:
 - adapting creative ideas  
 - supporting user culture  
 - joining existing conversations  
-- empowering advocates :contentReference[oaicite:4]{index=4}
+- empowering advocates 
 
 ---
 
@@ -75,7 +75,7 @@ She shares an example of a brand using Reddit communities focused on hair care a
 
 The lesson is clear:
 
-Brands grow faster when they meet people where interest already exists, rather than interrupting cold audiences. :contentReference[oaicite:5]{index=5}
+Brands grow faster when they meet people where interest already exists, rather than interrupting cold audiences. 
 
 ---
 

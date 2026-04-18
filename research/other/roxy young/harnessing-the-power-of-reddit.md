@@ -9,7 +9,7 @@ https://speedofculture.co/episode/harnessing-the-power-of-reddit-cmo-roxy-young-
 
 Reddit gives marketers access to people who are actively seeking answers, researching purchases, and participating in interest-based communities.
 
-Roxy Young explains that Reddit users are not passive scrollers. They come to the platform to learn, compare options, and engage deeply with topics they care about. :contentReference[oaicite:0]{index=0}
+Roxy Young explains that Reddit users are not passive scrollers. They come to the platform to learn, compare options, and engage deeply with topics they care about. 
 
 ---
 
@@ -19,7 +19,7 @@ Reddit allows advertisers to target people based on interests rather than identi
 
 Instead of broad demographic targeting, brands can reach communities centered around real passions and purchase intent.
 
-This creates stronger alignment between message and audience. :contentReference[oaicite:1]{index=1}
+This creates stronger alignment between message and audience. 
 
 ---
 
@@ -36,7 +36,7 @@ Users visit communities to ask questions about:
 - project management tools  
 - customer support systems  
 
-This means Reddit often captures high-intent decision-stage traffic. :contentReference[oaicite:2]{index=2}
+This means Reddit often captures high-intent decision-stage traffic. 
 
 ---
 
@@ -54,7 +54,7 @@ This includes:
 - learning from feedback  
 - co-creating value with users  
 
-That builds stronger brand affinity than one-way advertising. :contentReference[oaicite:3]{index=3}
+That builds stronger brand affinity than one-way advertising. 
 
 ---
 
@@ -69,7 +69,7 @@ Examples include:
 - conversation-led campaigns  
 - interactive community responses  
 
-Brands willing to adapt creative to Reddit culture can outperform copy-pasted campaigns from other platforms. :contentReference[oaicite:4]{index=4}
+Brands willing to adapt creative to Reddit culture can outperform copy-pasted campaigns from other platforms. 
 
 ---
 
@@ -82,7 +82,7 @@ Reddit uses several layers of moderation:
 - voting systems  
 - advertiser controls  
 
-This helps brands choose suitable environments while maintaining community trust. :contentReference[oaicite:5]{index=5}
+This helps brands choose suitable environments while maintaining community trust. 
 
 ---
 
@@ -95,7 +95,7 @@ Roxy also highlights Reddit’s use of AI to support advertisers through:
 - performance optimization  
 - simpler campaign setup  
 
-This lowers barriers for brands new to Reddit Ads. :contentReference[oaicite:6]{index=6}
+This lowers barriers for brands new to Reddit Ads. 
 
 ---
 

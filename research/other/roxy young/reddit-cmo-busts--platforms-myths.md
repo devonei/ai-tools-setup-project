@@ -9,7 +9,7 @@ https://www.adweek.com/social-marketing/reddits-cmo-busts-platform-myths/
 
 Many marketers misunderstand Reddit.
 
-Roxy Young explains that Reddit is not a hostile platform for brands. Instead, it is a community-driven platform where users welcome brands that participate in useful, respectful, and authentic ways. :contentReference[oaicite:0]{index=0}
+Roxy Young explains that Reddit is not a hostile platform for brands. Instead, it is a community-driven platform where users welcome brands that participate in useful, respectful, and authentic ways. 
 
 ---
 
@@ -25,7 +25,7 @@ Brands can succeed when they:
 - provide value first  
 - speak honestly  
 - participate naturally  
-- respect conversations already happening :contentReference[oaicite:1]{index=1}
+- respect conversations already happening 
 
 ---
 
@@ -55,7 +55,7 @@ Instead, users respond positively when companies show up the right way:
 - answer questions  
 - offer expertise  
 - share relevant solutions  
-- engage transparently :contentReference[oaicite:2]{index=2}
+- engage transparently 
 
 ---
 
@@ -63,8 +63,7 @@ Instead, users respond positively when companies show up the right way:
 
 Reddit has over 100,000 communities organized by interests and topics.
 
-This gives advertisers the ability to reach focused audiences rather than broadcasting to everyone. :contentReference[oaicite:3]{index=3}
-
+This gives advertisers the ability to reach focused audiences rather than broadcasting to everyone. 
 ---
 
 ## Myth #3: Reddit Is Only for Consumer Brands
