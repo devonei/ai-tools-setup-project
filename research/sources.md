@@ -249,3 +249,30 @@ Kevin is one of the most influential voices in modern SEO, especially in the tra
 - https://www.airops.com/blog/reddit-google-seo-strategies
 - Date: 1/2/2025
 - Notes:Breaks down how Reddit content increasingly ranks in Google and is heavily used in AI-generated answers. Shows how AI systems prefer human discussion data for grounding responses, reinforcing Kevin Indig’s point about multi-platform visibility (Reddit, forums, reviews) becoming critical for SEO success.
+
+---
+
+### Katelyn Bourgoin
+
+Role:
+Buyer Psychology Strategist, Growth Marketer, Customer Research Educator, Founder of Customer Camp
+
+Why Relevant:
+Katelyn Bourgoin is relevant to Reddit marketing for B2B SaaS because she teaches how to uncover buyer pain points, switching triggers, objections, and real customer language. Reddit communities are rich sources of these signals, making her frameworks valuable for messaging, positioning, demand generation, and market research.
+
+### Sources:
+
+#### Search Reddit Before You Write Marketing Copy
+- link: https://www.linkedin.com/posts/katebour_im-supposed-to-be-good-at-marketing-but-activity-7242533284038004737-PaRd
+- date: 2025
+- notes: Katelyn explicitly recommends searching Reddit as a scrappy customer research method. Strong direct relevance to Reddit marketing research.
+
+#### Marketing’s Job To Be Done
+- link: https://www.linkedin.com/pulse/marketings-job-done-katelyn-bourgoin-barry-o-reilly
+- date: 8/3/2022
+- notes: Explains buyer triggers, switching moments, and why customers seek alternatives. Indirectly useful for analyzing Reddit discussions and purchase intent.
+
+#### Why Buyer Psychology Is the Real Growth Hack
+- link: https://www.forwardobsessed.com/episodes/katelyn-bourgoin
+- date: 09/25/2025
+- notes: Shows how pain, friction, and urgency drive buying decisions. Useful for interpreting complaint and comparison threads on Reddit.

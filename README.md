@@ -94,6 +94,9 @@ Selected for his data-driven perspective on how Reddit influences modern search 
 
 Selected for deep research on how AI search (Google AI Overviews, ChatGPT, and LLM-based discovery systems) is reshaping SEO, organic traffic dynamics, and modern growth strategy.
 
+### Katelyn Bourgoin
+
+Selected for her expertise in buyer psychology, customer research, and demand generation. She explicitly recommends using Reddit as a scrappy research channel to uncover pain points, objections, and real customer language. Her frameworks are highly relevant for B2B SaaS brands using Reddit to improve messaging, positioning, and audience understanding.
 ---
 
 ## What Was Collected
