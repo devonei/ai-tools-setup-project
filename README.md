@@ -101,6 +101,9 @@ Selected for her expertise in buyer psychology, customer research, and demand ge
 ## Jim Squires
 Selected for his direct leadership experience at Reddit, where he oversaw business marketing and growth initiatives. His insights into Reddit Ads, community-based brand strategy, advertiser success, and platform-specific engagement make him highly relevant for B2B SaaS companies using Reddit as a marketing channel.
 
+## Roxy Young
+Selected for her direct leadership experience as Reddit’s Chief Marketing Officer and her extensive public insights on how brands succeed through Reddit communities. She provides strong expertise in community marketing, authentic engagement, interest-based targeting, audience intelligence, and co-creation strategies relevant to B2B SaaS growth.
+
 ---
 
 ## What Was Collected

@@ -277,6 +277,8 @@ Katelyn Bourgoin is relevant to Reddit marketing for B2B SaaS because she teache
 - date: 09/25/2025
 - notes: Shows how pain, friction, and urgency drive buying decisions. Useful for interpreting complaint and comparison threads on Reddit.
 
+---
+
 ### Jim Squires
 
 Role:
@@ -291,3 +293,40 @@ Jim Squires is directly relevant to Reddit marketing for B2B SaaS because he led
 - link: https://pod.wave.co/podcast/the-duct-tape-marketing-podcast/how-small-businesses-win-on-reddit-in-2025-444f50ba
 - date: 2025
 - notes: Direct podcast interview focused on how businesses can succeed on Reddit through organic participation, advertising, community trust, and platform-specific strategy.
+
+---
+
+### Roxy Young
+
+Role:
+Former Chief Marketing Officer at Reddit, Brand Strategy and Community Marketing Executive
+
+Why Relevant:
+Roxy Young is directly relevant to Reddit marketing for B2B SaaS because she publicly shared how brands can grow through Reddit communities, interest-based targeting, authentic engagement, community intelligence, and co-creation. Her insights help explain how businesses can market effectively on Reddit without relying on traditional social media tactics.
+
+### Sources:
+
+#### How Marketers Can Win on Reddit, From the Platform's CMO
+- link: https://www.adweek.com/brand-marketing/how-marketers-can-win-on-reddit-from-the-platforms-cmo/
+- date: 2024
+- notes: Direct interview explaining how marketers should approach Reddit through communities, trust, targeting, and platform-native strategy.
+
+#### Harnessing the Power of Reddit: CMO Roxy Young on Innovative Marketing Strategies
+- link: https://speedofculture.co/episode/harnessing-the-power-of-reddit-cmo-roxy-young-on-innovative-marketing-strategies
+- date: 2024
+- notes: Podcast discussing community marketing, advertiser opportunities, interest-based audiences, and Reddit’s role in modern brand growth.
+
+#### Community Intelligence and the Future of Reddit Marketing
+- link: https://www.adweek.com/brand-marketing/community-intelligence-and-the-future-of-reddit-marketing/
+- date: 2024
+- notes: Covers how Reddit conversations can become strategic insight for marketers through audience intelligence and real-time community feedback.
+
+#### Reddit’s CMO Busts Platform Myths
+- link: https://www.adweek.com/social-marketing/reddits-cmo-busts-platform-myths/
+- date: 2024
+- notes: Challenges misconceptions about Reddit users and explains how brands can succeed through authenticity and relevance.
+
+#### Reddit’s Roxy Young on Community, Creativity and Co-Creation
+- link: https://lbbonline.com/news/reddits-roxy-young-on-community-creativity-and-co-creation-2
+- date: 2024
+- notes: Explains how brands can grow by collaborating with communities rather than controlling every message.
