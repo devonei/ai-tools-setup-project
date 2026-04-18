@@ -276,3 +276,18 @@ Katelyn Bourgoin is relevant to Reddit marketing for B2B SaaS because she teache
 - link: https://www.forwardobsessed.com/episodes/katelyn-bourgoin
 - date: 09/25/2025
 - notes: Shows how pain, friction, and urgency drive buying decisions. Useful for interpreting complaint and comparison threads on Reddit.
+
+### Jim Squires
+
+Role:
+Former EVP of Business Marketing and Growth at Reddit, Advertising and Platform Growth Executive
+
+Why Relevant:
+Jim Squires is directly relevant to Reddit marketing for B2B SaaS because he led Reddit’s business marketing and growth efforts. His experience covers Reddit Ads, brand strategy, advertiser education, community-based marketing, and how businesses can grow through Reddit’s niche interest communities.
+
+### Sources:
+
+#### How Small Businesses Win on Reddit in 2025
+- link: https://pod.wave.co/podcast/the-duct-tape-marketing-podcast/how-small-businesses-win-on-reddit-in-2025-444f50ba
+- date: 2025
+- notes: Direct podcast interview focused on how businesses can succeed on Reddit through organic participation, advertising, community trust, and platform-specific strategy.

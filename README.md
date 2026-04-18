@@ -97,6 +97,10 @@ Selected for deep research on how AI search (Google AI Overviews, ChatGPT, and L
 ### Katelyn Bourgoin
 
 Selected for her expertise in buyer psychology, customer research, and demand generation. She explicitly recommends using Reddit as a scrappy research channel to uncover pain points, objections, and real customer language. Her frameworks are highly relevant for B2B SaaS brands using Reddit to improve messaging, positioning, and audience understanding.
+
+## Jim Squires
+Selected for his direct leadership experience at Reddit, where he oversaw business marketing and growth initiatives. His insights into Reddit Ads, community-based brand strategy, advertiser success, and platform-specific engagement make him highly relevant for B2B SaaS companies using Reddit as a marketing channel.
+
 ---
 
 ## What Was Collected
