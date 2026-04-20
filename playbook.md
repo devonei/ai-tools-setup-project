@@ -326,6 +326,29 @@ For global B2B SaaS companies, Reddit should not be treated as a universal chann
 
 ## Who I Would NOT Recommend Following and Why
 
+### Neil Patel
+
+Neil Patel is one of the most well-known digital marketers in the world, and I recognize that he has helped many businesses understand SEO, paid media, and growth fundamentals. He is effective at simplifying marketing topics for broad audiences.
+
+However, if someone specifically wants to learn **Reddit marketing for B2B SaaS**, he would not be my first recommendation.
+
+**Why:**
+
+- Much of his content is designed for broad marketing audiences rather than niche B2B SaaS operators.
+- Some strategies prioritize traffic acquisition more than community trust or long-term reputation.
+- Reddit requires high-context participation, patience, and cultural nuance. General growth tactics do not always transfer cleanly to community-led platforms.
+- For this topic, other experts in this research set offer deeper perspectives on buyer psychology, trust-building, zero-click influence, or Reddit-native behavior.
+
+**Who I Would Prioritize Instead:**
+
+- **Amanda Natividad** for modern discovery behavior and brand visibility  
+- **Rand Fishkin** for audience research and zero-click strategy  
+- **Ross Simmonds** for community-led distribution and practical Reddit execution  
+- **Katelyn Bourgoin** for customer language and buyer psychology
+
+**Important Note:**  
+This is not a claim that Neil Patel is a poor marketer. It is only a judgment about best-fit relevance for the specific topic of Reddit marketing for B2B SaaS.
+
 ---
 
 ## Final Recommendation
