@@ -246,6 +246,82 @@ The researched experts discussed reputation, discovery, and community trust, but
 
 ## Weaknesses of This Playbook
 
+### 1. Reddit Is Not Equally Valuable for Every B2B SaaS Niche
+
+This playbook assumes the target audience actively uses Reddit. That may be true for founders, marketers, developers, IT buyers, and startup operators, but less true for industries with lower Reddit adoption.
+
+Examples may include highly traditional sectors, local-service software, or niche enterprise buyers who rely more on private networks and referrals.
+
+If the audience is not present on Reddit, the return on effort may be limited.
+
+---
+
+### 2. Attribution Can Be Difficult
+
+Reddit often influences buying decisions indirectly. A user may read threads today, search the brand later, then convert weeks or months afterward through another channel.
+
+Because of this, Reddit impact may be underreported in standard analytics tools. Companies focused only on last-click attribution may incorrectly conclude the strategy is failing.
+
+---
+
+### 3. Requires Human Judgment and Consistency
+
+This playbook depends on thoughtful participation, audience understanding, and good timing. Poor execution can damage results.
+
+Examples:
+
+- overly promotional comments  
+- generic responses  
+- misunderstanding subreddit culture  
+- inconsistent participation  
+- using corporate language in community spaces
+
+Unlike paid ads, success is not fully automated.
+
+---
+
+### 4. Some Recommendations Are Based on Strategic Logic, Not Controlled Testing
+
+Several ideas in this playbook are built from expert principles and practical reasoning rather than public controlled experiments.
+
+For example:
+
+- founder-led presence may outperform faceless brand accounts  
+- organic learning before ads may improve paid efficiency  
+- trust signals may outperform direct traffic metrics
+
+These ideas are credible but may vary by company, product, and audience.
+
+---
+
+### 5. Time to Results May Be Slow
+
+Reddit trust usually compounds over time. Companies expecting immediate leads may become impatient before meaningful results appear.
+
+For many B2B SaaS businesses, Reddit may work better as a medium-term reputation and demand channel than a short-term lead channel.
+
+---
+
+### 6. What Is Missing
+
+This playbook does not deeply cover:
+
+- subreddit-specific moderation rules by niche  
+- advanced Reddit Ads campaign setup  
+- legal/compliance review for regulated industries  
+- international language/community strategies  
+- detailed KPI dashboard templates
+
+Those areas would need additional research before full implementation.
+
+### 7. Geographic and Platform Accessibility Limitations
+
+This playbook assumes Reddit is accessible and relevant in the target market. In some countries, Reddit has faced blocks, restrictions, low adoption, or limited mainstream usage.
+
+Even where accessible, users may prefer local forums, messaging apps, LinkedIn, Facebook Groups, Discord, or other community platforms instead.
+
+For global B2B SaaS companies, Reddit should not be treated as a universal channel. Market-by-market validation is necessary before investing heavily.
+
 ---
 
 ## Who I Would NOT Recommend Following and Why
