@@ -71,15 +71,19 @@ Criteria used:
 ## Experts Included
 
 ### Ross Simmonds
+
 Selected for his deep expertise in content distribution systems and practical Reddit marketing frameworks. His work consistently connects SEO, Reddit visibility, and modern B2B buyer behavior.
 
 ### Amanda Natividad  
+
 Selected for her expertise in zero-click marketing, modern search behavior, and community-led discovery systems. Her work consistently connects Reddit, audience research, hidden demand creation, and modern B2B buyer behavior.
 
 ### Neil Patel  
+
 Selected for his direct Reddit marketing frameworks covering buyer psychology, organic traffic generation, paid Reddit ads, and Reddit’s growing influence on Google search and AI-driven discovery.
 
 ### Pieter Levels
+
 Selected for his proven ability to launch and scale products through online communities like Reddit, Hacker News, and Product Hunt. His work demonstrates founder-led distribution, authentic audience building, rapid validation, and zero-budget traction systems highly relevant to Reddit marketing for startups and SaaS brands.
 
 ### Rand Fishkin
@@ -98,10 +102,12 @@ Selected for deep research on how AI search (Google AI Overviews, ChatGPT, and L
 
 Selected for her expertise in buyer psychology, customer research, and demand generation. She explicitly recommends using Reddit as a scrappy research channel to uncover pain points, objections, and real customer language. Her frameworks are highly relevant for B2B SaaS brands using Reddit to improve messaging, positioning, and audience understanding.
 
-## Jim Squires
+### Jim Squires
+
 Selected for his direct leadership experience at Reddit, where he oversaw business marketing and growth initiatives. His insights into Reddit Ads, community-based brand strategy, advertiser success, and platform-specific engagement make him highly relevant for B2B SaaS companies using Reddit as a marketing channel.
 
-## Roxy Young
+### Roxy Young
+
 Selected for her direct leadership experience as Reddit’s Chief Marketing Officer and her extensive public insights on how brands succeed through Reddit communities. She provides strong expertise in community marketing, authentic engagement, interest-based targeting, audience intelligence, and co-creation strategies relevant to B2B SaaS growth.
 
 ---

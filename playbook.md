@@ -182,7 +182,65 @@ B2B purchases often involve trust, expertise, and credibility. Transparent parti
 
 ## My Original Ideas
 
-### 1.
+### 1. Build a “Reddit Signal Dashboard” for Revenue Teams
+
+Most companies treat Reddit as a marketing channel. My original idea is to treat Reddit as an early-warning signal system shared across marketing, sales, product, and customer success teams.
+
+The company would create a simple monthly dashboard tracking:
+
+- competitor mentions  
+- “best tool for X” recommendation threads  
+- complaints about existing solutions  
+- switching intent (“leaving X for Y”)  
+- feature requests users repeatedly mention  
+- pricing frustration signals  
+- implementation concerns or onboarding pain points
+
+**Why It Could Work:**  
+
+Reddit conversations are often honest, specific, and less filtered than survey responses. Users openly discuss frustrations, alternatives, and buying intent in ways they may never share directly with vendors.
+
+This gives teams valuable real-time intelligence:
+
+- **Marketing** can improve messaging and content topics  
+- **Sales** can prepare stronger objection handling  
+- **Product** can identify roadmap opportunities  
+- **Customer Success** can spot churn risks and onboarding friction
+
+For B2B SaaS, this could turn Reddit from a passive platform into an active market intelligence source.
+
+**Why It Is Original:**  
+None of the researched experts explicitly framed Reddit as a cross-functional internal intelligence dashboard. Most advice focused on traffic, community engagement, SEO visibility, or advertising.
+
+### 2. Create a “Community Proof Library” for Sales and Brand Trust
+
+My second original idea is to build an internal library of credible third-party Reddit conversations where real users discuss the company, the problem category, or competitors.
+
+Instead of only relying on case studies and polished testimonials, the company would collect public Reddit threads that show authentic market perception, such as:
+
+- users recommending the product organically  
+- users comparing tools in the category  
+- buyers explaining why they switched solutions  
+- discussions about common pain points the product solves  
+- positive mentions of features, support, or ROI outcomes
+
+These examples would be organized into a searchable internal database for sales and marketing teams.
+
+**Why It Could Work:**  
+
+Modern buyers often trust peer conversations more than branded messaging. Public discussion from neutral communities can feel more credible than curated testimonials.
+
+This library could help teams use real market language and proof:
+
+- **Sales** can understand what buyers actually care about  
+- **Marketing** can identify trust-building themes  
+- **Content teams** can create stronger comparison pages and FAQs  
+- **Leadership** can monitor reputation trends over time
+
+For B2B SaaS, trust often forms before a demo call. Community proof can influence that stage.
+
+**Why It Is Original:**  
+The researched experts discussed reputation, discovery, and community trust, but none explicitly suggested turning Reddit conversations into a structured internal proof asset for revenue teams.
 
 ---
 
