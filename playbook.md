@@ -145,9 +145,38 @@ I side with Amanda Natividad and Rand Fishkin. For B2B SaaS, buying journeys are
 
 ## What I Rejected and Why
 
-### 1.
+### 1. Using Reddit Primarily as a Traffic Channel
 
-### 2.
+Some sources highlight Reddit as a place to generate website traffic through strategic posting, timing, and link sharing. While traffic can happen, I chose not to make traffic the main objective of this playbook.
+
+**Why I Rejected It:**  
+For B2B SaaS, Reddit is often stronger as a trust, research, and demand-generation channel than a direct click channel. Many buying journeys begin with silent research, comparison threads, and reputation checks before users ever visit a website. Optimizing only for clicks would undervalue Reddit’s broader influence.
+
+(Source: Neil Patel, How to Generate More Traffic From Reddit, https://youtu.be/U0F1JrmoxTw?si=AzkbDYpYIcm6C4cl - 28.10.2017)
+(Source: Amanda Natividad, If Search Captures Demand, Public Evidence Creates It, https://sparktoro.com/blog/if-search-captures-demand-public-evidence-creates-it/ - 01.04.2026)
+
+---
+
+### 2. Scaling With Paid Ads Before Organic Learning
+
+Some platform experts highlight Reddit Ads as an effective way to reach niche audiences quickly. While I agree paid ads can work, I chose not to recommend ads as the starting point.
+
+**Why I Rejected It:**  
+Running ads before understanding subreddit language, objections, humor, and audience pain points increases the risk of weak messaging and wasted budget. Organic participation gives better market intelligence first, making paid campaigns stronger later.
+
+(Source: Jim Squires, How Small Businesses Win on Reddit in 2025, https://pod.wave.co/podcast/the-duct-tape-marketing-podcast/how-small-businesses-win-on-reddit-in-2025-444f50ba - 2025)
+(Source: Roxy Young, How Marketers Can Win on Reddit, From the Platform's CMO, https://www.adweek.com/brand-marketing/how-marketers-can-win-on-reddit-from-the-platforms-cmo/ - 04.06.2024)
+
+---
+
+### 3. Anonymous Brand Presence Over Transparent Human Presence
+
+Some marketers use anonymous or faceless brand accounts to participate in communities. I chose not to recommend this as a primary model for B2B SaaS.
+
+**Why I Rejected It:**  
+B2B purchases often involve trust, expertise, and credibility. Transparent participation from a founder, operator, or subject-matter expert is more likely to build durable reputation than a generic anonymous brand voice.
+
+(Source: Rand Fishkin, Reddit Participation & Trust Building, https://youtu.be/pfCJreTtNTg?si=rYNZWS1oSYYFAG5f - 01.08.2025)
 
 ---
 
